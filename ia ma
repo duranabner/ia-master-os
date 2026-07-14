@@ -1,0 +1,35 @@
+ia-master-os/
+
+app/
+│
+├── layout.tsx
+├── page.tsx
+├── globals.css
+│
+components/
+│
+├── splash/
+│      SplashScreen.tsx
+│      BrainLogo.tsx
+│      IntroText.tsx
+│      StartButton.tsx
+│
+├── dashboard/
+│      Dashboard.tsx
+│      Sidebar.tsx
+│      Hero.tsx
+│
+├── ui/
+│      Button.tsx
+│      Card.tsx
+│      Glow.tsx
+│
+lib/
+
+hooks/
+
+animations/
+
+public/
+
+README.md
